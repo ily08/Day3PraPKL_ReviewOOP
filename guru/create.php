@@ -20,12 +20,12 @@
   <body>
  
 <br>
-    <center><h2>Jurusan</h2></center><br>
+    <center><h2>Data</h2></center><br>
         <!-- CARDs -->
         <div class="container">
         <div class="card">
             <div class="card-header text-white bg-dark">
-                Tambah Jurusan
+                Tambah Data
             </div>
             <div class="card-body">
                 
