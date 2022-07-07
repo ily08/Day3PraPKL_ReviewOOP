@@ -20,12 +20,12 @@
   <body>
   
 <br>
-            <center><h2>Jurusan</h2></center><br>
+            <center><h2>Data</h2></center><br>
         <!-- CARDs -->
         <div class="container">
         <div class="card border-dark">
             <div class="card-header bg-dark">
-                <b style="color:white"> Edit Jurusan</b>
+                <b style="color:white"> Edit Data</b>
             </div>
             <div class="card text-white bg-secondary ">
             <?php
