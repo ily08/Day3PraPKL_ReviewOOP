@@ -30,7 +30,7 @@
                 <center><a href="create.php" class="btn text-primary btn-outline-dark">Add Data...</a></center>
             </div>
             <div class="card-body">
-                <!-- TABLE DOSEN -->
+                <!-- TABLE GURU -->
                 <table class="table table-striped">
                     <thead class="table table-sm table-dark">
                         <tr scope="row">
